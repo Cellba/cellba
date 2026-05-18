@@ -1,4 +1,4 @@
-Oii! Eu sou a Cellyne Batista 😎
+✨ Cellyne Batista ✨
 
-- Aprendendo aprendendo...
+- Aprendendo aprendendo... 📚
 
