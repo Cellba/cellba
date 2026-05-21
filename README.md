@@ -5,7 +5,7 @@ Aprendendo aprendendo... 📚
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 Estudante da área de TI.
+- 🎓 Formada em Analise e Desenvolvimento de Sistemas.
 - 🌙 Focada atualmente no aprimoramento de lógica e sintaxe em **Python** e **Lua**.
 - ☁️ Entusiasta de Cloud Computing (estudando a infraestrutura da **AWS**).
 
